@@ -63,3 +63,11 @@ It helps to convert the given data into visuals like graphs, bar graphs, pie-cha
   <li><a href="https://www.coursera.org/professional-certificates/applied-artifical-intelligence-ibm-watson-ai">Coursera</a></li>
 </ul>
 <br/>
+
+<h1>Day 11</h1>
+<b>Learning about the function is very fun and valuable as it provides the pwerful usecase of python programmimg. Similarly, by using coursera, i did some exercise on python for AI and data science.</b>
+<h4>Resource:</h4>
+<ul>
+  <li><a href="https://www.coursera.org/professional-certificates/applied-artifical-intelligence-ibm-watson-ai">Coursera</a></li>
+</ul>
+<br/>
