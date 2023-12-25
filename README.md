@@ -71,3 +71,12 @@ It helps to convert the given data into visuals like graphs, bar graphs, pie-cha
   <li><a href="https://www.coursera.org/professional-certificates/applied-artifical-intelligence-ibm-watson-ai">Coursera</a></li>
 </ul>
 <br/>
+
+<h1>Day 12</h1>
+<b>From  Coursera, i practised about object and classes in python programming. It is the basic concept and most important concept of object oriented programming. The usecase of oop in data science is use and is very important.</b>
+<h4>Resource:</h4>
+<ul>
+  <li><a href="https://www.coursera.org/professional-certificates/applied-artifical-intelligence-ibm-watson-ai">Coursera</a></li>
+     <img align="center" alt="coding" width="400" src="https://pynative.com/wp-content/uploads/2021/08/class_and_objects.jpg">
+</ul>
+<br/>
