@@ -90,3 +90,13 @@ It helps to convert the given data into visuals like graphs, bar graphs, pie-cha
 </ul>
 <br/>
 
+<h1>Day 14</h1>
+<b>NumPy is a Python library used for working with arrays, linear algebra, Fourier transform, and matrices. NumPy stands for Numerical Python and it is an open source project. The array object in NumPy is called ndarray, it provides a lot of supporting functions that make working with ndarray very easy. Arrays are very frequently used in data science, where speed and resources are very important.NumPy is usually imported under the np alias.</b>
+<h4>Resource:</h4>
+<ul>
+  <li><a href="https://numpy.org/">Numpy</a></li>
+     <img align="center" alt="coding" width="400" src="https://imgs.search.brave.com/ZkIZfTxFu3WM5kma45FGANQltHCGPd2YYUhaoR_d6Ng/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9udW1w/eS5vcmcvZG9jL3N0/YWJsZS9faW1hZ2Vz/L25wX2FycmF5LnBu/Zw">
+</ul>
+<br/>
+
+
