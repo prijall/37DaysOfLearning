@@ -99,4 +99,13 @@ It helps to convert the given data into visuals like graphs, bar graphs, pie-cha
 </ul>
 <br/>
 
+<h1>Day 15</h1>
+<b>NumPy is a Python library that supports large multidimensional arrays and matrices, with high-level mathematical functions to operate these arrays. NumPy arrays are fast compared to traditional lists because they use fixed datatype and contiguous memory allocation. NumPy 2D arrays are an array within an array, representing a table with rows and columns of data. The number of dimensions and items in an array is defined by its shape, which is a tuple of N non-negative integers that specify the sizes of each dimension. The type of items in the array is specified by a separate data-type object (dtype), one of which is associated with each ndarray.</b>
+<h4>Resource:</h4>
+<ul>
+  <li><a href="https://numpy.org/">Numpy</a></li>
+     <img align="center" alt="coding" width="400" src="https://imgs.search.brave.com/p9NG4Eon-uQOpOfWlc66bgw_aBtSH_PtJKOFLuERwuo/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9udW1w/eS5vcmcvZGV2ZG9j/cy9faW1hZ2VzL25w/X21hdHJpeF9hcml0/aG1ldGljLnBuZw">
+</ul>
+<br/>
+
 
