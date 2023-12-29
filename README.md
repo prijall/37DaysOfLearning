@@ -108,4 +108,7 @@ It helps to convert the given data into visuals like graphs, bar graphs, pie-cha
 </ul>
 <br/>
 
+<h1>Day 16</h1>
+<b>Today, I learned about API in Python Programming for AI/Data Science. An API lets two pieces of software talk to each other. Just like a function, you don't have to know how the API works, only its inputs and outputs.  An essential type of API is a REST API that allows you to access resources via the internet. In this lab, we will review the Pandas Library in the context of an API, we will also review a basic REST API.</b>
+
 
