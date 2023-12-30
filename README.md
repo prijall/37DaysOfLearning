@@ -110,5 +110,15 @@ It helps to convert the given data into visuals like graphs, bar graphs, pie-cha
 
 <h1>Day 16</h1>
 <b>Today, I learned about API in Python Programming for AI/Data Science. An API lets two pieces of software talk to each other. Just like a function, you don't have to know how the API works, only its inputs and outputs.  An essential type of API is a REST API that allows you to access resources via the internet. In this lab, we will review the Pandas Library in the context of an API, we will also review a basic REST API.</b>
+<br/>
+
+<h1>Day 17</h1>
+<b>Today, I got to learn about web scraping using the Python library Beautiful Soup, which is one of the phenomenal libraries in Python. Web scraping is important in the sense that it helps to extract data from web pages into our program. we need to have basic knowledge of Python loops and functions and import a beautiful soup library. Beautiful Soup is a Python library for pulling data out of HTML and XML files, a  focus is on HTML files. This is accomplished by representing the HTML as a set of objects with methods used to parse the HTML. We can navigate the HTML as a tree, and/or filter out what we are looking for. Knowing HTML is very beneficial.</b>
+<h4>Resource:</h4>
+<ul>
+  <li><a href="https://beautiful-soup-4.readthedocs.io/en/latest/">Beautiful Soup</a></li>
+     <img align="center" alt="coding" width="400" src="https://imgs.search.brave.com/_EnpwjNv06RvbCN7CUdBf1nwtBOMIG--MhnrvzfIyBE/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9zdGFj/a2FidXNlLnMzLmFt/YXpvbmF3cy5jb20v/bWVkaWEvcGFyc2lu/Zy1odG1sLXdpdGgt/YmVhdXRpZnVsc291/cC1pbi1weXRob24t/MS5qcGc">
+</ul>
+<br/>
 
 
