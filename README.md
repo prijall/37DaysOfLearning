@@ -126,7 +126,7 @@ It helps to convert the given data into visuals like graphs, bar graphs, pie-cha
 <h4>Resource:</h4>
 <ul>
   <li><a href="https://www.kaggle.com/datasets/mathchi/diabetes-data-set">Kaggle dataset</a></li>
-     <img align="center" alt="coding" width="400" src="">
+   <li><a href="https://www.coursera.org/professional-certificates/applied-artifical-intelligence-ibm-watson-ai">Coursera</a></li> 
 </ul>
 <br/>
 
