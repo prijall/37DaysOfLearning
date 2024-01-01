@@ -121,4 +121,13 @@ It helps to convert the given data into visuals like graphs, bar graphs, pie-cha
 </ul>
 <br/>
 
+<h1>Day 18</h1>
+<b>Today, I learned about different types of file types and understand their different meaning along with their usage. A file format is a standard way in which information is encoded for storage in a file. First, the file format specifies whether the file is a binary or ASCII file. Second, it shows how the information is organized. For example, the comma-separated values (CSV) file format stores tabular data in plain text. To identify a file format, you can usually look at the file extension to get an idea. For example, a file saved with the name "Data" in "CSV" format will appear as Data.csv. By noticing the .csv extension, we can identify that it is a CSV file and the data is stored in a tabular format.</b>
+<h4>Resource:</h4>
+<ul>
+  <li><a href="https://www.kaggle.com/datasets/mathchi/diabetes-data-set">Kaggle dataset</a></li>
+     <img align="center" alt="coding" width="400" src="">
+</ul>
+<br/>
+
 
