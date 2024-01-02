@@ -1,3 +1,13 @@
+<table>
+  <tr>
+    <th>Books & Resources</th>
+    <th>Completion Status</th>
+  </tr>
+  <tr>
+    <td><a href="https://www.coursera.org/learn/python-for-applied-data-science-ai/">Python for Data Science, AI & Development</a></td>
+    <td>✔️</td>
+  </tr>
+</table>
 <h1>Day 1</h1> 
 <b>Today, I deep dive into the basic concept of Matplotlib which is one of the most important Python libraries for data visualization.  
 It helps to convert the given data into visuals like graphs, bar graphs, pie-chart, etc
