@@ -130,4 +130,13 @@ It helps to convert the given data into visuals like graphs, bar graphs, pie-cha
 </ul>
 <br/>
 
+<h1>Day 19</h1>
+<b>After completing the Python course from Coursera, today I started revising the basics of SQL which is useful for the data science journey. It helps in database management and data manipulation which helps to make proper data analysis and helps in understanding the relationship in the database. Today, I did basic operations in SQL.</b>
+<h4>Resource:</h4>
+<ul>
+  <li><a href="https://www.w3schools.com/sql/default.asp">SQL on w3schools</a></li>
+   <img align="center" alt="coding" width="400" src="https://imgs.search.brave.com/c_ywBaewuRgCTEjMIqFDFc9soXg8o6lkO8O4088wW5E/rs:fit:860:0:0/g:ce/aHR0cHM6Ly93d3cu/cWhtaXQuY29tL3Bp/eC9zdG9jay9zcWxf/dHV0b3JpYWxfNTAw/eDIwMF8yLnBuZw">
+</ul>
+<br/>
+
 
