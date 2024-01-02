@@ -1,3 +1,6 @@
+<img align="center" alt="coding" width="500" src="https://imgs.search.brave.com/BuKiNZcMPZ9gb7JcueCLSan-Rbidr0FoYZCKb953QIo/rs:fit:500:0:0/g:ce/aHR0cHM6Ly91cGxv/YWQud2lraW1lZGlh/Lm9yZy93aWtpcGVk/aWEvY29tbW9ucy80/LzQ2L0R1bm5pbmcl/RTIlODAlOTNLcnVn/ZXJfRWZmZWN0XzAx/LnN2Zw.svg">
+<br/>
+
 <table>
   <tr>
     <th>Books & Resources</th>
@@ -8,6 +11,8 @@
     <td>✔️</td>
   </tr>
 </table>
+<br/>
+
 <h1>Day 1</h1> 
 <b>Today, I deep dive into the basic concept of Matplotlib which is one of the most important Python libraries for data visualization.  
 It helps to convert the given data into visuals like graphs, bar graphs, pie-chart, etc
