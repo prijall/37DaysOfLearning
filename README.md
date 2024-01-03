@@ -10,6 +10,10 @@
     <td><a href="https://www.coursera.org/learn/python-for-applied-data-science-ai/">Python for Data Science, AI & Development</a></td>
     <td>✔️</td>
   </tr>
+  <tr>
+    <td><a href="https://www.w3schools.com/sql/default.asp">SQL Tutorial</a></td>
+    <td>🏊</td>
+  </tr>
 </table>
 <br/>
 
@@ -153,5 +157,10 @@ It helps to convert the given data into visuals like graphs, bar graphs, pie-cha
    <img align="center" alt="coding" width="400" src="https://imgs.search.brave.com/c_ywBaewuRgCTEjMIqFDFc9soXg8o6lkO8O4088wW5E/rs:fit:860:0:0/g:ce/aHR0cHM6Ly93d3cu/cWhtaXQuY29tL3Bp/eC9zdG9jay9zcWxf/dHV0b3JpYWxfNTAw/eDIwMF8yLnBuZw">
 </ul>
 <br/>
+
+<h1>Day 20</h1>
+<b>Today, I learned to back up the database using query and also grasp the ideas in SQL constraints which are very important to learn. Similarly, I learned about parameters like group by and having which are used with where and without where resp. </b>
+<br/>
+<img align="center" alt="coding" width="400" src="https://imgs.search.brave.com/CSKhF13vsVPjEZgVH1oUP_JUQnRgcrasvJnHvDRYvXk/rs:fit:500:0:0/g:ce/aHR0cHM6Ly9zdGF0/aWMuamF2YXRwb2lu/dC5jb20vc3FscGFn/ZXMvaW1hZ2VzL2Nv/bnN0cmFpbnRzLWlu/LXNxbDEyLnBuZw">
 
 
