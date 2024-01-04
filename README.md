@@ -162,5 +162,10 @@ It helps to convert the given data into visuals like graphs, bar graphs, pie-cha
 <b>Today, I learned to back up the database using query and also grasp the ideas in SQL constraints which are very important to learn. Similarly, I learned about parameters like group by and having which are used with where and without where resp. </b>
 <br/>
 <img align="center" alt="coding" width="400" src="https://imgs.search.brave.com/CSKhF13vsVPjEZgVH1oUP_JUQnRgcrasvJnHvDRYvXk/rs:fit:500:0:0/g:ce/aHR0cHM6Ly9zdGF0/aWMuamF2YXRwb2lu/dC5jb20vc3FscGFn/ZXMvaW1hZ2VzL2Nv/bnN0cmFpbnRzLWlu/LXNxbDEyLnBuZw">
+<br/>
 
+<h1>Day 21</h1>
+<b>Solving practical and real-life problems gives a proper understanding of the concepts. Today, I practiced one question from SQL query and made use of different query concepts such as alter, view, update, where clause, having clause, order by clause, etc. The question was a bit difficult for me as it was my first time solving a problem.</b>
+ <img align="center" alt="coding" width="400" src="https://imgs.search.brave.com/1w-IU3cpuSPlSLFTe5_LqfV9b4COAt-yOXPYMfyn-M4/rs:fit:860:0:0/g:ce/aHR0cHM6Ly93d3cu/ZXNzZW50aWFsc3Fs/LmNvbS93cC1jb250/ZW50L3VwbG9hZHMv/MjAxNS8wNC9TUUwt/RGF0YWJhc2UtVmll/dy5wbmc">
+ <br/>
 
