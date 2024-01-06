@@ -1,4 +1,4 @@
-<img align="center" alt="coding" width="500" src="https://imgs.search.brave.com/BuKiNZcMPZ9gb7JcueCLSan-Rbidr0FoYZCKb953QIo/rs:fit:500:0:0/g:ce/aHR0cHM6Ly91cGxv/YWQud2lraW1lZGlh/Lm9yZy93aWtpcGVk/aWEvY29tbW9ucy80/LzQ2L0R1bm5pbmcl/RTIlODAlOTNLcnVn/ZXJfRWZmZWN0XzAx/LnN2Zw.svg">
+<img align="center" alt="coding" height="500" width="1000" src="https://imgs.search.brave.com/hnwPmARjO7Oj92lniE-1_n0UPXMGgbar4vy-4VPgPkY/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9tYW50/cmFjYXJlLm9yZy93/cC1jb250ZW50L3Vw/bG9hZHMvMjAyMS8x/Mi9JTVBPU1RFUi1T/WU5EUk9NRS5qcGc">
 <br/>
 
 <table>
@@ -168,4 +168,9 @@ It helps to convert the given data into visuals like graphs, bar graphs, pie-cha
 <b>Solving practical and real-life problems gives a proper understanding of the concepts. Today, I practiced one question from SQL query and made use of different query concepts such as alter, view, update, where clause, having clause, order by clause, etc. The question was a bit difficult for me as it was my first time solving a problem.</b>
  <img align="center" alt="coding" width="400" src="https://imgs.search.brave.com/1w-IU3cpuSPlSLFTe5_LqfV9b4COAt-yOXPYMfyn-M4/rs:fit:860:0:0/g:ce/aHR0cHM6Ly93d3cu/ZXNzZW50aWFsc3Fs/LmNvbS93cC1jb250/ZW50L3VwbG9hZHMv/MjAxNS8wNC9TUUwt/RGF0YWJhc2UtVmll/dy5wbmc">
  <br/>
+
+<h1>Day 22</h1>
+<b>I am very happy to share that I am now finally learning machine learning algorithms. Today, I practiced/learned about simple linear regression from @krishnaik06, which was very wonderful and worth learning. Simple linear Regression falls under the category of supervised learning in machine learning algorithms. Today, I learned the basic concept of cost function and dependent and independent variables. </b>
+<img align="center" alt="coding" width="400" src="https://github.com/prijall/LearningEveryday/blob/main/Day22.jpg">
+<br/>
 
