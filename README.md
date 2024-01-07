@@ -174,3 +174,6 @@ It helps to convert the given data into visuals like graphs, bar graphs, pie-cha
 <img align="center" alt="coding" width="400" src="https://github.com/prijall/LearningEveryday/blob/main/Day22.jpg">
 <br/>
 
+<h1>Day 23</h1>
+<b>Today, I practiced the basics of SQL and solved the problems from the question bank from Pokhara University. Learned the concept of delete, view, group by, having, etc. </b>
+<img align="center" alt="coding" width="400" src="https://imgs.search.brave.com/JQq_sPBTaUn2CG3uxs2Cx6h5x7r0ClBNtkwVXqQKaiY/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9zMzgw/NjMucGNkbi5jby93/cC1jb250ZW50L3Vw/bG9hZHMvMjAyMS8w/OS9zcWwtY29tbWFu/ZHMtc3FsLWRlbGV0/ZS1zdGF0ZW1lbnQt/aW4tYS1zcWwtdGFi/bGUucG5n">
