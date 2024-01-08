@@ -177,3 +177,10 @@ It helps to convert the given data into visuals like graphs, bar graphs, pie-cha
 <h1>Day 23</h1>
 <b>Today, I practiced the basics of SQL and solved the problems from the question bank from Pokhara University. Learned the concept of delete, view, group by, having, etc. </b>
 <img align="center" alt="coding" width="400" src="https://imgs.search.brave.com/JQq_sPBTaUn2CG3uxs2Cx6h5x7r0ClBNtkwVXqQKaiY/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9zMzgw/NjMucGNkbi5jby93/cC1jb250ZW50L3Vw/bG9hZHMvMjAyMS8w/OS9zcWwtY29tbWFu/ZHMtc3FsLWRlbGV0/ZS1zdGF0ZW1lbnQt/aW4tYS1zcWwtdGFi/bGUucG5n">
+<br/>
+
+<h1>Day 24</h1>
+<b>From Krish Naik's video of simple linear regression, I built a California housing price prediction using simple linear regression. This wasn't the end-to-end project of Machine Learning Algorithms but just the overlook of how the hypothesis model/ML model is built on top of these concepts. This project was built yesterday so today I am going to go through all these concepts and make more clear ideas on the model design.</b>
+<img align="center" alt="coding" width="400" src="https://imgs.search.brave.com/Wc5QVMV4X0viMShTxvxXL8p1LpJW6T3ZFuExrk-MMBA/rs:fit:860:0:0/g:ce/aHR0cHM6Ly93d3cu/Y2xvdWRlcmEuY29t/L2NvbnRlbnQvZGFt/L3d3dy9tYXJrZXRp/bmcvdHV0b3JpYWxz/L2J1aWxkaW5nLWEt/bGluZWFyLXJlZ3Jl/c3Npb24tbW9kZWwt/aW4tcHl0aG9uLWZv/ci1wcmVkaWN0aW5n/LWhvdXNlLXByaWNl/cy9zYWxhcnlkYXRh/ZXhwLWZpZzEuanBn">
+<br/>
+
