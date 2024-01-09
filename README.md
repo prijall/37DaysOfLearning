@@ -184,3 +184,14 @@ It helps to convert the given data into visuals like graphs, bar graphs, pie-cha
 <img align="center" alt="coding" width="400" src="https://imgs.search.brave.com/Wc5QVMV4X0viMShTxvxXL8p1LpJW6T3ZFuExrk-MMBA/rs:fit:860:0:0/g:ce/aHR0cHM6Ly93d3cu/Y2xvdWRlcmEuY29t/L2NvbnRlbnQvZGFt/L3d3dy9tYXJrZXRp/bmcvdHV0b3JpYWxz/L2J1aWxkaW5nLWEt/bGluZWFyLXJlZ3Jl/c3Npb24tbW9kZWwt/aW4tcHl0aG9uLWZv/ci1wcmVkaWN0aW5n/LWhvdXNlLXByaWNl/cy9zYWxhcnlkYXRh/ZXhwLWZpZzEuanBn">
 <br/>
 
+<h1>Day 25</h1>
+<b>From today, I have devoted myself to learning machine learning algorithms for my machine learning journey. Continuing Krish Naik's video on simple linear regression, today I learned about the cost/loss function which is one of the important factors in defining the best-fit line.
+  <ul>
+    <li><h3>Residual Error:</h3> When the summation of the difference between predicted values and actual value in (x,y) coordinate.</li>
+    <li><h3>Cost Function:</h3> The cost function measures the difference between the predicted values of the model and the actual target values</li>
+    <li><h3>Best-Fit line:</h3> It is a linear line in a graph built based on a cost function where the residual error is minimum.</li>
+  </ul>
+</b>
+<img align="center" alt="Cost Function" width="400" src="https://builtin.com/sites/www.builtin.com/files/styles/ckeditor_optimize/public/inline-images/10_cost-function.png">
+</br>
+
