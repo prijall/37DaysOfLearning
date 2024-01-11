@@ -201,8 +201,19 @@ It helps to convert the given data into visuals like graphs, bar graphs, pie-cha
 
 <h1>Day 26</h1>
 <b>Today, I watched the lecture on mean squared value, and mean absolute value from Krish Naik's video and got insightful knowledge about their use case in simple linear regression.<ul>
-  <li><h3>MEAN SQUARED ERROR:</h3> the squared average of the difference between the predicted value and actual value. The main advantages of MSE are: that it is differentiable and has single local maxima. The main disadvantage is that it is not robust to outliners.</li>
+  <li><h3>MEAN SQUARED ERROR:</h3> The squared average of the difference between the predicted value and actual value. The main advantages of MSE are: that it is differentiable and has single local maxima. The main disadvantage is that it is not robust to outliners.</li>
 <li><h3>MEAN ABSOLUTE ERROR:</h3> The average difference between the predicted value and absolute value in a mod. The advantages are: It is robust to outliner. The disadvantage is that it takes more time in convergence as it doesn't form gradient descent.</li>
 </ul></b>
 <img align="center" alt="Cost Function" width="400" src="https://imgs.search.brave.com/XhO8lSMG3JnD3hlMDp2x5Rzte-veLkuSJ8EWdHukwWg/rs:fit:860:0:0/g:ce/aHR0cHM6Ly93d3cu/c3RhdGlzdGljc2hv/d3RvLmNvbS93cC1j/b250ZW50L3VwbG9h/ZHMvMjAxNi8xMC9N/QUUucG5n">
 </br>
+
+<h1>Day 27</h1>
+<b>One of the initial doubts during the starting of linear regression was about the concept of overfitting. From Krish Naik's video, Today, I came to know about the overfitting condition in linear regression and how to handle it.<br/> <h3>Overfiiting:</h3>When the best-fit line passes through each actual value so that the cost function is equivalent to zero. 
+<h3>The ways to handle overfitting are:</h3>
+  <ul>
+    <li>Ridge Regression</li>
+    <li>Lasso Regression</li>
+  </ul>
+  More about them Tomorrow.
+</b>
+<img align="center" alt="Over Fitting" width="400" src="https://imgs.search.brave.com/KCPPUkgwtnfuyfbUu7mXDT2SCiYVzFHicIMlwRROFxk/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9zdGF0/aWMuamF2YXRwb2lu/dC5jb20vdHV0b3Jp/YWwvbWFjaGluZS1s/ZWFybmluZy9pbWFn/ZXMvb3ZlcmZpdHRp/bmctYW5kLXVuZGVy/Zml0dGluZy5wbmc">
