@@ -14,6 +14,10 @@
     <td><a href="https://www.w3schools.com/sql/default.asp">SQL Tutorial</a></td>
     <td>🏊</td>
   </tr>
+  <tr>
+    <td><a href="https://www.youtube.com/playlist?list=PLTDARY42LDV7WGmlzZtY-w9pemyPrKNUZ">Machine Learning Algorithms with Practical Implementation.</a></td>
+    <td>🏊</td>
+  </tr>
 </table>
 <br/>
 
