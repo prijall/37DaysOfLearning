@@ -18,6 +18,10 @@
     <td><a href="https://www.youtube.com/playlist?list=PLTDARY42LDV7WGmlzZtY-w9pemyPrKNUZ">Machine Learning Algorithms with Practical Implementation.</a></td>
     <td>🏊</td>
   </tr>
+  <tr>
+    <td><a href="https://books.google.com.np/books?hl=en&lr=&id=_-ZDDwAAQBAJ&oi=fnd&pg=PP1&dq=machine+learning+algorithms&ots=eqdDy1GB2J&sig=wBSfqWM8pqrqxLwSD9M98B_ozY8&redir_esc=y#v=onepage&q&f=false">Machine Learning Algorithms(Pdf).</a></td>
+    <td>🏊</td>
+  </tr>
 </table>
 <br/>
 
