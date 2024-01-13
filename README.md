@@ -228,5 +228,6 @@ It helps to convert the given data into visuals like graphs, bar graphs, pie-cha
 <br/>
 
 <h1>Day 29</h1>
-<b>After learning the algorithm theory of Ridge Regression from Krish Naik's video, today I did the practical implementation of it. I did this on my previous simple linear regression python code file from 'Day 24'. It was fun to learn the implementaion of ridge after knowing its theory. The code was pretty easy and the model was used from scikit learn which made the learning process so easy and fruitful.</b>
+<b>After learning the algorithm theory of Ridge Regression from Krish Naik's video, today I did the practical implementation of it. I did this on my previous simple linear regression Python code file from 'Day 24'. It was fun to learn the implementation of Ridge after knowing its theory. The code was pretty easy and the model was used from scikit learn which made the learning process so easy and fruitful.</b>
 
+![Screenshot (79)](https://github.com/prijall/LearningEveryday/assets/135851434/7d17ce85-4694-491d-b22b-ed82d415ade6)
