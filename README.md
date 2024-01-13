@@ -222,6 +222,11 @@ It helps to convert the given data into visuals like graphs, bar graphs, pie-cha
 <h1>Day 28</h1>
 <b>After learning about the best fit line, and condition of overfitting, Today, I studied Ridge regression which is one of the most important regressions to overcome overfitting.
 <h3>Ridge Regression:</h3>
-<p> It is Known as "L2 Regularization". When our best-fit line overfits with the given data point, especially in the training model then the cost function will be zero due to negligible residual error, now to overcome this the ridge regression uses two variables  lambda and square of a slope. the value of lambda is multiplied by the square of the slope and added to the cost function. Now again we have to find the minimal value of the residual of a new best-fit line using a cost function. It penalizes the size of regression coefficient.</p>
+<p> It is Known as "L2 Regularization". When our best-fit line overfits with the given data point, especially in the training model then the cost function will be zero due to negligible residual error, now to overcome this the ridge regression uses two variables  lambda and square of a slope. the value of lambda is multiplied by the square of the slope and added to the cost function. Now again we have to find the minimal value of the residual of a new best-fit line using a cost function. It penalizes the size of the regression coefficient.</p>
 </b>
 <img align="center" alt="Ridge Regression" width="400" src="https://imgs.search.brave.com/7M8KSvDn2KLSwJ24C5Y_bJ4onuHHPVgLfDwHdFKNUXE/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9hc3Nl/dHMtZ2xvYmFsLndl/YnNpdGUtZmlsZXMu/Y29tLzVlZjc4OGYw/NzgwNGZiN2Q3OGE0/MTI3YS82MjM0NGU2/ZjdlMmEwZTc5ZTI1/Y2VlZDhfRExJQktO/VHRtUkZMUW5EcnBB/bk03UmJ0cFJVYU1v/ZFRPVkxmQnlNaHN1/T2FOUFZDU3JqclB0/VC1CbExJQnFuV1NR/bFJQUndFUGxLbThP/eVRETGFQc19yZUdT/X05Wd0ZKb1hBNDJf/MHF4cVpuZ2VqTUxs/alRRRGxiTHI4Zkh2/SlRyc3dxTnp0Si5w/bmc">
+<br/>
+
+<h1>Day 29</h1>
+<b>After learning the algorithm theory of Ridge Regression from Krish Naik's video, today I did the practical implementation of it. I did this on my previous simple linear regression python code file from 'Day 24'. It was fun to learn the implementaion of ridge after knowing its theory. The code was pretty easy and the model was used from scikit learn which made the learning process so easy and fruitful.</b>
+
