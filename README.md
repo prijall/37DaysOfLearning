@@ -242,3 +242,6 @@ uV1NR/bFJQUndFUGxLbThP/eVRETGFQc19yZUdT/X05Wd0ZKb1hBNDJf/MHF4cVpuZ2VqTUxs/alRRRG
 <b>Today, I learned about Lasso Regression, and here is the code snippet:</b>
 
 ![Screenshot (81)](https://github.com/prijall/LearningEveryday/assets/135851434/be7a8b34-92b3-4df7-8c31-d238c24b54a6)
+
+![Screenshot (82)](https://github.com/prijall/LearningEveryday/assets/135851434/d4cf1192-2191-4ef3-886c-a29a5b49acd7)
+
