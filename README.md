@@ -245,3 +245,9 @@ uV1NR/bFJQUndFUGxLbThP/eVRETGFQc19yZUdT/X05Wd0ZKb1hBNDJf/MHF4cVpuZ2VqTUxs/alRRRG
 
 ![Screenshot (82)](https://github.com/prijall/LearningEveryday/assets/135851434/d4cf1192-2191-4ef3-886c-a29a5b49acd7)
 
+<br/>
+
+<h1>Day 31</h1>
+<b>After having completed both hyperparameter tuning techniques i.e. Ridge Regression and Lasso Regression in simple linear regression, today, I learned about the concept of Elastic Net Regularization, which is the combination of both ridge and lasso regression. Elastic Net Regression helps in both preventing overfitting and feature selection to find the best-fit line in the model.</b>
+
+![CodeCogsEqn-3](https://github.com/prijall/LearningEveryday/assets/135851434/11fc5419-55c1-4fdc-831f-ab810905ca80)
