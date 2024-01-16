@@ -251,3 +251,10 @@ uV1NR/bFJQUndFUGxLbThP/eVRETGFQc19yZUdT/X05Wd0ZKb1hBNDJf/MHF4cVpuZ2VqTUxs/alRRRG
 <b>After having completed both hyperparameter tuning techniques i.e. Ridge Regression and Lasso Regression in simple linear regression, today, I learned about the concept of Elastic Net Regularization, which is the combination of both ridge and lasso regression. Elastic Net Regression helps in both preventing overfitting and feature selection to find the best-fit line in the model.</b>
 
 ![CodeCogsEqn-3](https://github.com/prijall/LearningEveryday/assets/135851434/11fc5419-55c1-4fdc-831f-ab810905ca80)
+<br/>
+
+<h1>Day 32</h1>
+<b>I believe to complete the basics of simple linear regression from Krish Naik's video. Today, I learned the concept of cross-validation in machine learning. Cross-validation is the mean accuracy of all the accuracies that are valid from the training data itself. When we do cross-validation across the training dsataset then we get to know the best accuracy on the dataset which will help in hyperparameter training for the model resulting in low bias and low variance machine learning model</b>
+
+![5-fold-cross-validation-split](https://github.com/prijall/LearningEveryday/assets/135851434/17ab5788-899a-4ad3-ac25-a227c5cf2173)
+
