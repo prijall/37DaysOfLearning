@@ -254,7 +254,13 @@ uV1NR/bFJQUndFUGxLbThP/eVRETGFQc19yZUdT/X05Wd0ZKb1hBNDJf/MHF4cVpuZ2VqTUxs/alRRRG
 <br/>
 
 <h1>Day 32</h1>
-<b>I believe to complete the basics of simple linear regression from Krish Naik's video. Today, I learned the concept of cross-validation in machine learning. Cross-validation is the mean accuracy of all the accuracies that are valid from the training data itself. When we do cross-validation across the training dsataset then we get to know the best accuracy on the dataset which will help in hyperparameter training for the model resulting in low bias and low variance machine learning model</b>
+<b>I believe to complete the basics of simple linear regression from Krish Naik's video. Today, I learned the concept of cross-validation in machine learning. Cross-validation is the mean accuracy of all the accuracies that are valid from the training data itself. When we do cross-validation across the training dataset then we get to know the best accuracy on the dataset which will help in hyperparameter training for the model resulting in low bias and low variance machine learning model</b>
 
 ![5-fold-cross-validation-split](https://github.com/prijall/LearningEveryday/assets/135851434/17ab5788-899a-4ad3-ac25-a227c5cf2173)
+
+<h1>Day 33</h1>
+<b>After learning theory for many days from YouTube and making notes, today finally I got a chance to implement these theories in practical realms and did so with the help of Krish Naik's video. I used sklearn load_wine() dataset and did up to cross-validation for tuning the model for better accuracy. Similarly, today, I relearned about means squared error, mean absolute error, and square root mse which are one of those important topics in machine learning algorithms.</b>
+
+![Screenshot 2024-01-17 212221](https://github.com/prijall/LearningEveryday/assets/135851434/05d8c872-352d-4eb2-a899-aae65736f249)
+
 
