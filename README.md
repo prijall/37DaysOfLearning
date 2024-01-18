@@ -258,9 +258,16 @@ uV1NR/bFJQUndFUGxLbThP/eVRETGFQc19yZUdT/X05Wd0ZKb1hBNDJf/MHF4cVpuZ2VqTUxs/alRRRG
 
 ![5-fold-cross-validation-split](https://github.com/prijall/LearningEveryday/assets/135851434/17ab5788-899a-4ad3-ac25-a227c5cf2173)
 
+<br/>
+
 <h1>Day 33</h1>
 <b>After learning theory for many days from YouTube and making notes, today finally I got a chance to implement these theories in practical realms and did so with the help of Krish Naik's video. I used sklearn load_wine() dataset and did up to cross-validation for tuning the model for better accuracy. Similarly, today, I relearned about means squared error, mean absolute error, and square root mse which are one of those important topics in machine learning algorithms.</b>
 
 ![Screenshot 2024-01-17 212221](https://github.com/prijall/LearningEveryday/assets/135851434/05d8c872-352d-4eb2-a899-aae65736f249)
+<br/>
 
+<h1>Day 34</h1>
+<b>Today, I completed the practical implementation of simple linear regression with the help of Krish Naik's video. I learned about data preprocessing before feature engineering in machine learning. We should always standardize our dataset so that our model will perform better. Similarly, I had some confusion about 'fit_trasnform' and only 'transform' as to why they are used in different case scenarios. Completing end-to-end ML regression practicals gave me confidence in learning machine learning algorithms. from over mirror, I will probably start learning logistic regression. </b>
+
+![Screenshot 2024-01-18 141944](https://github.com/prijall/LearningEveryday/assets/135851434/dfd1dee9-7f72-43dd-b6ee-f11779fbacd4)
 
