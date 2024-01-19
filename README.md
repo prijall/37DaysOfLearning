@@ -270,4 +270,8 @@ uV1NR/bFJQUndFUGxLbThP/eVRETGFQc19yZUdT/X05Wd0ZKb1hBNDJf/MHF4cVpuZ2VqTUxs/alRRRG
 <b>Today, I completed the practical implementation of simple linear regression with the help of Krish Naik's video. I learned about data preprocessing before feature engineering in machine learning. We should always standardize our dataset so that our model will perform better. Similarly, I had some confusion about 'fit_trasnform' and only 'transform' as to why they are used in different case scenarios. Completing end-to-end ML regression practicals gave me confidence in learning machine learning algorithms. from over mirror, I will probably start learning logistic regression. </b>
 
 ![Screenshot 2024-01-18 141944](https://github.com/prijall/LearningEveryday/assets/135851434/dfd1dee9-7f72-43dd-b6ee-f11779fbacd4)
+<br/>
 
+<h1>Day 35</h1>
+<b>Today, I started learning Logistics Regression. Logistics Regression is used to solve  binary classification problems where simple linear regression cannot outshine. When the problem statement is binary classification i.e. 0 and 1 then simple linear regression is not robust to outliners and cannot squash to give the accurate value.so, Logistic regression is used. More about cost function tomorrow. It predicts the value between 0 and 1.</b>
+<img align="center" alt="Logistic Regression" width="400" src="https://images.spiceworks.com/wp-content/uploads/2022/04/11040522/46-4.png">
