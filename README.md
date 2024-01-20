@@ -275,3 +275,9 @@ uV1NR/bFJQUndFUGxLbThP/eVRETGFQc19yZUdT/X05Wd0ZKb1hBNDJf/MHF4cVpuZ2VqTUxs/alRRRG
 <h1>Day 35</h1>
 <b>Today, I started learning Logistics Regression. Logistics Regression is used to solve  binary classification problems where simple linear regression cannot outshine. When the problem statement is binary classification i.e. 0 and 1 then simple linear regression is not robust to outliners and cannot squash to give the accurate value.so, Logistic regression is used. More about cost function tomorrow. It predicts the value between 0 and 1.</b>
 <img align="center" alt="Logistic Regression" width="400" src="https://images.spiceworks.com/wp-content/uploads/2022/04/11040522/46-4.png">
+<br/>
+
+<h1>Day 36</h1>
+<b>Today, I did the practical implementations of Logistic Regression. By watching a video, I was able to achieve an accuracy score of 92% which is considered very good in machine learning. I used GridSearchCv using 3 different params i.e. penalty which includes 'l1', 'l2', and 'elastic net'. similarly, used various values of c and 'max_iter' to [100,200, 300]. The value for cross-validation is set for 5.</b>
+
+![Screenshot (83)](https://github.com/prijall/LearningEveryday/assets/135851434/e01a2d39-5c2f-4f2f-9431-b269f2660842)
