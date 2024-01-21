@@ -281,3 +281,7 @@ uV1NR/bFJQUndFUGxLbThP/eVRETGFQc19yZUdT/X05Wd0ZKb1hBNDJf/MHF4cVpuZ2VqTUxs/alRRRG
 <b>Today, I did the practical implementations of Logistic Regression. By watching a video, I was able to achieve an accuracy score of 92% which is considered very good in machine learning. I used GridSearchCv using 3 different params i.e. penalty which includes 'l1', 'l2', and 'elastic net'. similarly, used various values of c and 'max_iter' to [100,200, 300]. The value for cross-validation is set for 5.</b>
 
 ![Screenshot (83)](https://github.com/prijall/LearningEveryday/assets/135851434/e01a2d39-5c2f-4f2f-9431-b269f2660842)
+<br/>
+
+<h1>Day 37</h1>
+<b>Today, I just learned the concepts of feature engineering and feature selection. I got to be familiar with the terms like 'imputer', 'StandardScaler', etc. which will be very useful in my forthcoming future and I hope to learn more about this. </b>
